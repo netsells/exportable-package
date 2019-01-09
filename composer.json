@@ -1,0 +1,23 @@
+{
+    "name": "netsells/exportable",
+    "description": "Enables exporting of class data in PDF or CSV formats",
+    "type": "Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shaun Doudican",
+            "email": "shaun.doudican@netsells.co.uk"
+        }
+    ],
+    "require": {
+        "netsells/csvme": "^1.1",
+        "dompdf/dompdf": "^0.8.2"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+
+        "psr-4": {
+        }
+    }
+}
