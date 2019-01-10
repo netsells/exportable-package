@@ -13,7 +13,6 @@ use Illuminate\Support\Facades\View;
  * @package Netsells\Exportable
  *
  * Extends Illuminate\Database\Eloquent\Model to add export functionality to all DB models extending it
- * @see https://netsells.atlassian.net/wiki/spaces/CLS/pages/567672833/Exportables
  */
 class ExportableModel extends Model implements ExportableContract
 {
