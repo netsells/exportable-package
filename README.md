@@ -147,7 +147,7 @@ Using the `getConstant` static method, the value of the constant can be retrieve
 
 ```php
   // Confirm class constant defined
-  if ($configPath = $class::getConstant('ADMIN_PDF_CONFIG')) {
+  if ($configPath = User::getConstant('ADMIN_PDF_CONFIG')) {
       $config = Config::get($configPath);
       $headers = $config['headers'];
       $view = $config['view'];
