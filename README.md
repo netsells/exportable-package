@@ -1,7 +1,7 @@
 # Exportable
-[![Latest Version](https://img.shields.io/github/release/netsells/exportable.svg?style=flat-square)](https://github.com/netsells/exportable/releases)
+[![Latest Version](https://img.shields.io/github/release/netsells/exportable.svg?style=flat-square)](hhttps://github.com/netsells/exportable-package/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/netsells/exportable.svg?style=flat-square)](https://packagist.org/packages/netsells/exportable)
+[![Total Downloads](https://img.shields.io/packagist/dt/netsells/exportable.svg?style=flat-square)](https://github.com/netsells/exportable-package)
 
 Allows easy exporting of data from Eloquent models
 
