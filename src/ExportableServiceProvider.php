@@ -15,7 +15,7 @@ class ExportableServiceProvider extends ServiceProvider
     {
         $this->publishes([
             __DIR__.'/exportable.php' => config_path('exportable.php'),
-            __DIR__.'/views' => base_path('resources/views/netslles/exportable'),
+            __DIR__.'/views' => base_path('resources/views/exportable'),
         ]);
 
 //        $this->loadViewsFrom(__DIR__.'/views', 'exportable');
