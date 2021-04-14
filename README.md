@@ -5,6 +5,8 @@
 
 Allows easy exporting of data from Eloquent models
 
+It is created and maintained by the [Netsells team](https://netsells.co.uk/)
+
 ## Getting Started
 
 Install `Exportable` using Composer.
